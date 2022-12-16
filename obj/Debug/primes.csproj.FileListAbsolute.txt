@@ -1,0 +1,8 @@
+C:\Users\Mahmoud\Downloads\primes\primes\bin\Debug\primes.exe.config
+C:\Users\Mahmoud\Downloads\primes\primes\bin\Debug\primes.exe
+C:\Users\Mahmoud\Downloads\primes\primes\bin\Debug\primes.pdb
+C:\Users\Mahmoud\Downloads\primes\primes\obj\Debug\primes.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Downloads\primes\primes\obj\Debug\primes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mahmoud\Downloads\primes\primes\obj\Debug\primes.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Downloads\primes\primes\obj\Debug\primes.exe
+C:\Users\Mahmoud\Downloads\primes\primes\obj\Debug\primes.pdb
